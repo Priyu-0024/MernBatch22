@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms in html</title>
+</head>
+
+<body>
+    <form>
+        <label for="nameUser">Name</label>
+        <input type="text" placeholder="Enter Your Name" id="nameUser" maxlength="15" value="Karan Kushwah" />
+        <br />
+        <br />
+        <label for="nameEmail">Email</label>
+        <input type="email" placeholder="Enter Your Email" id="nameEmail"
+        required minlength="3" />
+        <br />
+        <br />
+
+        <label for="PasswordUser">Password</label>
+        <input type="password" placeholder="Enter Your Email" id="PasswordUser" minlength="6" required />
+        <br />
+        <br />
+        <label for="dataUser">About User</label>
+        <input type="text" placeholder="Enter Your Data" id="dataUser" required />
+        <br />
+        <br />
+        <label for="adharData">Adhar Card Number</label>
+        <input type="text" placeholder="Enter Your Data" id="adharData" readonly value="381008952543" />
+        <br />
+        <br />
+        <label for="dobUser">Date of birth</label>
+        <input type="text" id="dobUser" readonly value="01/01/2025" />
+        <br />
+        <br />
+        <label for="addDOBUser">Add Date of birth</label>
+        <input type="date" id="addDOBUser"/>
+        <br />
+        <input type="submit" disabled>
+        <br />
+
+
+        <label for="ageUser">Age</label>
+        <input type="number" placeholder="Enter Your Name" id="ageUser" step="10" min="20" max="100" value="40" />
+        <br /><br />
+
+        <label for="resumeUser">Upload Your Resume</label>
+        <input type="file" id="resumeUser">
+        <br /><br />
+
+
+        <label for="searchUser">Search Items</label>
+        <input type="search" id="searchUser" placeholder="enter items you looking for!!">
+        <br /><br />
+        <input type="submit">
+         <input type="reset">
+
+    </form>
+</body>
+
+</html>
