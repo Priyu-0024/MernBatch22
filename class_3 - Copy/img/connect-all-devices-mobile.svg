@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="180" viewBox="0 0 312 180">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255,131,7,0.5);
+      }
+
+      .cls-12, .cls-2, .cls-6 {
+        fill: #e8f1fd;
+      }
+
+      .cls-12, .cls-13, .cls-2, .cls-4, .cls-8 {
+        stroke: #555;
+      }
+
+      .cls-12, .cls-13, .cls-15, .cls-16, .cls-2, .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-10, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-13, .cls-15, .cls-16, .cls-4, .cls-8 {
+        fill: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        fill: #555;
+      }
+
+      .cls-8 {
+        stroke-linejoin: round;
+        stroke-width: 2.8px;
+      }
+
+      .cls-12, .cls-13, .cls-15, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        fill: #5095fa;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-15, .cls-16 {
+        stroke: #5095fa;
+        stroke-linecap: round;
+        stroke-dasharray: 0 7;
+      }
+
+      .cls-17 {
+        clip-path: url(#clip-path-4);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="masking" class="cls-1" width="312" height="180" transform="translate(-23 144)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_203" data-name="Rectangle 203" class="cls-2" width="66.251" height="78.196"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_421" data-name="Path 421" class="cls-3" d="M-2955.913-3646.809l24.4,4v-14.712h117v10.709h76.571v22.04h27.6v-56.621h-245.566Z"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_205" data-name="Rectangle 205" class="cls-4" width="64.539" height="89" transform="translate(0 0.809)"/>
+    </clipPath>
+  </defs>
+  <g id="img" transform="translate(23 -144)">
+    <g id="mask" class="cls-5">
+      <g id="img-2" data-name="img" transform="translate(2980 3828.701)">
+        <g id="phone" transform="translate(-2739 -3621)">
+          <rect id="Rectangle_197" data-name="Rectangle 197" class="cls-6" width="52.765" height="29.684" transform="translate(29.684) rotate(90)"/>
+          <g id="Phone-2" data-name="Phone">
+            <g id="_x2A_Icon-_x2F_-Light-_x2F_-Product-_x2F_-Phone" transform="translate(12.342 4.5)">
+              <path id="Icon-_x2F_-Light-_x2F_-Product-_x2F_-Phone" class="cls-7" d="M48,9a2.5,2.5,0,1,1-2.5,2.5A2.476,2.476,0,0,1,48,9Z" transform="translate(-45.5 -9)"/>
+            </g>
+            <g id="Group_8507" data-name="Group 8507">
+              <path id="Path_416" data-name="Path 416" class="cls-8" d="M51,4.5a2.172,2.172,0,0,1,2.181,2.181v48.4A2.172,2.172,0,0,1,51,57.265H25.681A2.172,2.172,0,0,1,23.5,55.084V6.681A2.172,2.172,0,0,1,25.681,4.5H51" transform="translate(-23.5 -4.5)"/>
+              <g id="icon-person" transform="translate(4.551 19.091)">
+                <path id="Path_403" data-name="Path 403" class="cls-9" d="M246.457,167.065a10.291,10.291,0,1,1-10.292-10.291,10.292,10.292,0,0,1,10.292,10.291" transform="translate(-225.874 -156.774)"/>
+                <path id="Path_404" data-name="Path 404" class="cls-10" d="M245.087,173.712a4.04,4.04,0,0,1,4.045,3.925v1a.633.633,0,0,1-.632.632h-6.824a.633.633,0,0,1-.632-.632v-1a4.039,4.039,0,0,1,4.044-3.925m0-6.066a2.78,2.78,0,1,1-2.78,2.781,2.784,2.784,0,0,1,2.78-2.781" transform="translate(-234.796 -163.169)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="tv" transform="translate(-2984 -3639)">
+          <rect id="Rectangle_194" data-name="Rectangle 194" class="cls-6" width="88" height="55" transform="translate(2 3)"/>
+          <g id="Symbols">
+            <g id="_Icon-_-Light-_-Product-_-TV" data-name="*Icon-/-Light-/-Product-/-TV">
+              <path id="Icon-_-Light-_-Product-_-TV" data-name="Icon-/-Light-/-Product-/-TV" class="cls-7" d="M91.688,12.606a2.819,2.819,0,0,1,2.8,2.66l.005.171V70.255a2.824,2.824,0,0,1-2.631,2.826l-.171.005h-9.6l6.241,10.809-2.6,1.5L78.621,73.086H16.9L9.8,85.394l-2.6-1.5,6.24-10.809H4.312a2.82,2.82,0,0,1-2.8-2.66l-.005-.171V15.437a2.824,2.824,0,0,1,2.631-2.826l.171-.005Zm-.179,2.981H4.49V70.105H91.509Z" transform="translate(-1.51 -12.606)"/>
+            </g>
+          </g>
+          <g id="icon-person-2" data-name="icon-person" transform="translate(33.575 18.067)">
+            <path id="Path_403-2" data-name="Path 403" class="cls-9" d="M251.705,169.689a12.916,12.916,0,1,1-12.916-12.915,12.916,12.916,0,0,1,12.916,12.915" transform="translate(-225.874 -156.774)"/>
+            <path id="Path_404-2" data-name="Path 404" class="cls-10" d="M246.118,175.259a5.07,5.07,0,0,1,5.076,4.925v1.261a.794.794,0,0,1-.793.793h-8.565a.794.794,0,0,1-.793-.793v-1.261a5.069,5.069,0,0,1,5.075-4.925m0-7.613a3.489,3.489,0,1,1-3.489,3.49,3.494,3.494,0,0,1,3.489-3.49" transform="translate(-233.203 -162.027)"/>
+          </g>
+        </g>
+        <g id="washer" transform="translate(-2813 -3644)">
+          <g id="Group_8508" data-name="Group 8508" class="cls-11" transform="translate(0 0)">
+            <rect id="Rectangle_202" data-name="Rectangle 202" class="cls-12" width="61.859" height="73.803" rx="0.708" transform="translate(2.196 2.197)"/>
+            <line id="Line_1" data-name="Line 1" class="cls-13" x2="14.146" transform="translate(26.053 12.785)"/>
+            <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-13" cx="20.384" cy="20.384" r="20.384" transform="translate(12.741 22.461)"/>
+          </g>
+        </g>
+        <g id="lines">
+          <g id="Mask_Group_3" data-name="Mask Group 3" class="cls-14">
+            <path id="Path_418" data-name="Path 418" class="cls-15" d="M.5,50.5V16.96A16.678,16.678,0,0,1,17.388.5H196.9A16.678,16.678,0,0,1,213.79,16.96V50.5" transform="translate(-2938.261 -3677.497)"/>
+            <path id="Path_419" data-name="Path 419" class="cls-16" d="M-2882.858-3682.109v-9.247" transform="translate(31.24 19.122)"/>
+            <path id="Path_420" data-name="Path 420" class="cls-16" d="M-2882.858-3673.516v-17.84" transform="translate(103.473 17.266)"/>
+          </g>
+        </g>
+        <g id="fridger" transform="translate(-2884 -3655.809)">
+          <g id="Group_8509" data-name="Group 8509" class="cls-17">
+            <path id="Rectangle_204" data-name="Rectangle 204" class="cls-12" d="M.665,0H59.209a.664.664,0,0,1,.664.664v84.69a.664.664,0,0,1-.664.664H.665A.665.665,0,0,1,0,85.353V.665A.665.665,0,0,1,.665,0Z" transform="translate(2.333 2.333)"/>
+            <line id="Line_2" data-name="Line 2" class="cls-13" y2="89" transform="translate(32.269 0.809)"/>
+            <line id="Line_3" data-name="Line 3" class="cls-13" y2="22" transform="translate(17.356 22.309)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
