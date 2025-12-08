@@ -1,0 +1,108 @@
+.container{
+          justify-content: center;
+          height: 100%;
+          width:100% ;
+
+}
+
+
+.header{
+          height: 30px;
+          width: 100px;
+          display: flex;
+          column-gap: 40px;
+          align-items: center;
+          font-size: 15px;
+}
+
+.start img{
+          width: 100%;
+          height: 70vh;
+          position: absolute;
+          top: 40px;
+
+}
+.heading{
+          color:goldenrod;
+          height: 100px;
+          width: 300px;
+          position: absolute;
+          top: 650px;
+          bottom: 100px;
+          padding-left: 600px;
+          align-items: center;
+         
+         
+}
+.right{
+          height: 10px;
+          width: 10px;
+          position: absolute;
+          top: 700px;
+          bottom: 10px;
+          padding-left: 100px;
+          
+}
+.left{
+          height: 10px;
+          width: 10px;
+          position: absolute;
+          top: 700px;
+          bottom: 20px;
+          padding-left: 800px;
+}
+.last img{
+          height: 200px;
+          width: 300px;
+          justify-content: space-around;
+          padding: 30px;
+          margin: 0auto;
+          align-items: center;
+}
+.title{
+          margin-top: 40px;
+          font-size: 22px;
+          color: gold;
+          justify-content: center;
+          align-items: center;
+
+}
+.head{
+          justify-content: center;
+          color: gold;
+          border: darkkhaki;
+          border-radius: 10px;
+          height: 80px;
+          width: 500px;
+}
+.three{
+          height: 20px;
+          justify-content: center;
+}
+.card img{
+          width: 200px;
+          height: 200px;
+          border-radius: 10px;
+          margin: 60px;
+          padding: 20px;
+          display: flex;
+          justify-content: center;
+          border: 2px yellow;
+          color: white;
+          
+}
+  
+.first img{
+          width: 40px;
+          height: 40px;
+}
+.second{
+          position: relative;
+}
+.input img{
+          position: relative;
+          top: 40px;
+          bottom: 40px;
+          height: 300%;
+          width: 110%;
+}
