@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "../class_4"
+		},
+		{
+			"path": "../class_5"
+		},
+		{
+			"path": "../class_6"
+		},
+		{
+			"path": "../class_7"
+		},
+		{
+			"path": "../class_8"
+		},
+		{
+			"path": "../class_9"
+		},
+		{
+			"path": "../class_10"
+		},
+		{
+			"path": "../class_11"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../class_13"
+		},
+		{
+			"path": "../class_18"
+		},
+		{
+			"path": "../class_19"
+		},
+		{
+			"path": "../class_20"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
